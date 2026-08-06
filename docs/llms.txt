@@ -23,8 +23,8 @@ Copy `.claude/agents/green-software-engineer.md` and `.claude/skills/green-softw
 
 | File | Description |
 |---|---|
-| `README.md` | Overview, quick start, and agent vs skill comparison |
-| `README.es.md` | Spanish overview, quick start, attribution, and agent vs skill comparison |
+| `README.md` | Spanish overview, quick start, attribution, and agent vs skill comparison |
+| `README.en.md` | English overview, quick start, and agent vs skill comparison |
 | `docs/agent-guide.md` | Full reference for the `@green-software-engineer` agent — use cases, invocation, knowledge base, SCI formula |
 | `docs/agent-guide.es.md` | Spanish reference for the `ingeniero-software-verde` agent |
 | `docs/skill-guide.md` | Full reference for the `/green-review` skill — auto-trigger rules, review checklist, output format, severity ratings |

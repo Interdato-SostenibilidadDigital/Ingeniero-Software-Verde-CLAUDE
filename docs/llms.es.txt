@@ -21,7 +21,8 @@ Copiar `.claude/agents/ingeniero-software-verde.md` y `.claude/skills/revision-v
 
 ## Índice documental español
 
-- `README.es.md`: descripción, inicio rápido, autoría y referencias.
+- `README.md`: descripción principal en español, inicio rápido, autoría y referencias.
+- `README.en.md`: versión inglesa conservada como idioma alternativo.
 - `docs/agent-guide.es.md`: guía del agente `ingeniero-software-verde`.
 - `docs/skill-guide.es.md`: guía de `/revision-verde`.
 - `docs/writing-ai-friendly-docs.es.md`: criterios para documentación accesible para IA.

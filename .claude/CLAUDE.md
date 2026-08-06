@@ -17,8 +17,8 @@ Copy the `.claude/` folder into the target project, or place the files under `~/
 
 | File | Description |
 |---|---|
-| [`README.md`](../README.md) | Overview, quick start, and agent vs skill comparison |
-| [`README.es.md`](../README.es.md) | Spanish overview, installation, attribution, and quick start |
+| [`README.md`](../README.md) | Spanish overview, installation, attribution, and quick start |
+| [`README.en.md`](../README.en.md) | English overview, quick start, and agent vs skill comparison |
 | [`docs/agent-guide.md`](../docs/agent-guide.md) | Full reference for `@green-software-engineer` — use cases, SCI formula, invocation syntax |
 | [`docs/agent-guide.es.md`](../docs/agent-guide.es.md) | Spanish reference for `ingeniero-software-verde` |
 | [`docs/skill-guide.md`](../docs/skill-guide.md) | Full reference for `/green-review` — auto-trigger rules, checklist, output format |
