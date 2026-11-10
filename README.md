@@ -158,3 +158,7 @@ Más información en la [guía de la skill](docs/skill-guide.es.md).
 - [Catálogo de patrones de software verde](https://patterns.greensoftware.foundation)
 - [Especificación SCI](https://sci.greensoftware.foundation)
 - [Especificación SCI for AI](https://github.com/Green-Software-Foundation/sci-ai/blob/dev/SPEC.md)
+
+## Seguridad y mantenimiento
+
+Consulta la [Política de seguridad](SECURITY.md) para reportar vulnerabilidades y conocer el alcance de los controles automáticos.
